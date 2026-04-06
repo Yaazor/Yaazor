@@ -1,8 +1,8 @@
 ## 🐈
 
 - 💚 PHP, Go, Kotlin / Java, TypeScript
-- 🎮 Développeur / Administrateur chez @HerobrineFR
-- 🔧 Étudiant en informatique
+- 🔧 **Étudiant** en informatique
+- 🎮 **Développeur** / **Administrateur** chez @HerobrineFR
 
 <!--
 **Yaazor/Yaazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
